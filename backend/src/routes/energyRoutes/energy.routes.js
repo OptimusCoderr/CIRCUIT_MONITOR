@@ -1,11 +1,9 @@
-// routes/energy.routes.js
 import express from 'express';
 import {
   createEnergyData,
   createSingleEnergyData,
   getAggregatedData,
   getFlattenedReadings,
-
 } from '../../controllers/energyControllers/energy.controller.js';
 import { protectRoute } from '../../middleware/auth.middleware.js';
 
