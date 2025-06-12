@@ -1,0 +1,47 @@
+{
+  "circuit": "507f1f77bcf86cd799439011",
+  "totalEnergyConsumed": 12.5,
+  "status": "active",
+  "readings": [
+    {
+      "timestamp": "2025-06-02T10:00:00Z",
+      "voltage": 220.5,
+      "current": 5.2,
+      "ACvoltage": 230.1,
+      "ACcurrent": 5.5,
+      "power": 1146.0
+    },
+    {
+      "timestamp": "2025-06-02T10:01:00Z",
+      "voltage": 221.0,
+      "current": 5.3,
+      "ACvoltage": 230.5,
+      "ACcurrent": 5.6,
+      "power": 1171.3
+    },
+    {
+      "timestamp": "2025-06-02T10:02:00Z",
+      "voltage": 220.8,
+      "current": 5.1,
+      "ACvoltage": 229.8,
+      "ACcurrent": 5.4,
+      "power": 1126.1
+    },
+    {
+      "timestamp": "2025-06-02T10:03:00Z",
+      "voltage": 222.1,
+      "current": 5.4,
+      "ACvoltage": 231.2,
+      "ACcurrent": 5.7,
+      "power": 1199.3
+    },
+    {
+      "timestamp": "2025-06-02T10:04:00Z",
+      "voltage": 221.5,
+      "current": 5.2,
+      "ACvoltage": 230.7,
+      "ACcurrent": 5.5,
+      "power": 1151.8
+    }
+  ]
+}
