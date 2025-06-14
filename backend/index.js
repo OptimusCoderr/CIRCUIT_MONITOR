@@ -17,7 +17,7 @@ const app = express();
 const PORT = process.env.PORT || 5000;
 const __dirname = path.resolve();
 
-app.use(cors({ origin: "https://circuit-frontend-1.onrender.com",
+app.use(cors({ origin: "https://circuit-monitor.vercel.app",
 	 credentials: true }));
 
 app.use(express.json()); // allows us to parse incoming requests:req.body
